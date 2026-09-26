@@ -2,7 +2,7 @@
 
 Aplicación Android para el control de entradas y salidas de visitantes, proveedores y camiones en una finca o empresa. Lleva el registro de quién está dentro, su historial y permite generar reportes y respaldos.
 
-> Proyecto de código abierto, hecho con Kotlin y Jetpack Compose.
+> Aplicación Android hecha con Kotlin y Jetpack Compose.
 
 ## Funcionalidades
 
@@ -80,4 +80,7 @@ app/src/main/java/com/shoropio/controlingreso/
 
 ## Licencia
 
-Sin licencia definida por ahora (todos los derechos reservados).
+© 2026 Shoropio Corporation. Todos los derechos reservados.
+
+Este proyecto se publica como código visible, pero su uso está sujeto a la
+autorización de Shoropio Corporation. Ver archivo [`LICENSE`](LICENSE).
