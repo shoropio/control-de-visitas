@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control de Ingreso</string>
+    <string name="copyright_notice">© 2026 Shoropio Corporation. Todos los derechos reservados.</string>
+    <string name="backup_description">Aplicación de control de ingreso de visitas, proveedores y traileros para finca agrícola.</string>
+</resources>

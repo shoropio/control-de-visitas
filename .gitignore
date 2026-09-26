@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Kotlin
+.kotlin/
+
+# Android
+local.properties
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Registros y diagnósticos (pueden contener datos de visitantes)
+logcat-*.txt
+*.hprof
+
+# tgrep (índice de búsqueda local, no se versiona)
+.tgrep/
